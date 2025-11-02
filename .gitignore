@@ -1,0 +1,13 @@
+**/node_modules
+**/dist
+**/build
+**/output.scss
+**/output.css
+**/output.js
+**/output.map
+**/output.html
+**/output.json
+**/output.xml
+**/output.yaml
+**/output.yml
+**/output.toml
